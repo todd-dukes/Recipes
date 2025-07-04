@@ -1,45 +1,50 @@
-= Fluffy Pancake Recipe
+== Fluffy Pancake Recipe
 :author: Grok
 :date: July 4, 2025
 
-This recipe yields approximately 6 ultra-fluffy pancakes using a buttermilk substitute, powdered sugar, and whipped egg whites for maximum lightness. Cooked on a 350{deg}F griddle, these pancakes are tender with a subtle sweetness and tang.
+This recipe yields approximately 6 to 9 ultra-fluffy pancakes using a buttermilk substitute, powdered sugar, and whipped egg whites for maximum lightness. Cooked on a 350{deg}F griddle, these pancakes are tender with a subtle sweetness and tang.
 
-== Ingredients
-* 0.75 cup all-purpose flour (optional: add 1-2 tsp if batter is too thin)
-* 1.75 tsp baking powder
-* 0.25 tsp salt
-* 1 tsp powdered sugar
-* 0.5 cup + 2 tbsp milk
-* 1.5 tsp white vinegar
-* 0.5 large egg yolk (from 1 large egg, separated)
-* 2 large egg whites (from 2 large eggs)
-* 1.5 tbsp unsalted butter, melted
-* 0.5 tsp vanilla extract (optional)
+=== Ingredients
+* Wet
+** 5 oz (1/2 cup + 2 tbsp) milk
+** 2 tsp white vinegar or lemon juice
+** 2 large egg - yolks and whites will be separated. Only 1 yolk is used.
+** 2 tbsp unsalted butter, melted
+** 1/2 tsp vanilla extract (optional - cooks same with 1tsp but has more dominate vanilla flavor)
+* Dry
+** 3/4 cup all-purpose flour (optional: add 1-2 tsp after mixing if batter is too thin)
+** 2 tsp baking powder (1.5-2 tsp, but should with amount of vinegar or lemon juice you put in the milk)
+** 1/4 tsp salt
+** 1 tsp powdered sugar
 
-== Instructions
-. *Prepare buttermilk substitute*: In a small bowl, mix 0.5 cup + 2 tbsp milk with 1.5 tsp white vinegar. Let sit for 5-10 minutes until slightly curdled.
-. *Mix dry ingredients*: In a medium bowl, whisk 0.75 cup flour, 1.75 tsp baking powder, 0.25 tsp salt, and 1 tsp powdered sugar.
-. *Prepare wet ingredients*: 
-  ** Separate one large egg; reserve 0.5 yolk (~0.5 tbsp). 
-  ** In a small bowl, whisk the 0.5 egg yolk, 1.5 tbsp melted butter, 0.5 tsp vanilla (if using), and the milk-vinegar mixture until combined.
-. *Whip egg whites*:
-  ** In a clean, dry bowl, use a whisk or hand mixer to whip 2 large egg whites to *soft peaks* (foamy, holding shape but not stiff), about 2-3 minutes by hand or 1-2 minutes with a mixer. Ensure no yolk or grease in the bowl.
+=== Instructions
+. *Prepare buttermilk substitute*: In a small bowl, mix 5 oz milk with 2 tsp white vinegar. **Let sit for at least 5 minutes. It should slightly curdle.**
+. *Mix dry ingredients*: In a medium bowl, whisk 3/4 cup flour, 2 tsp baking powder, 1/4 tsp salt, and 1 tsp powdered sugar.
+. *Prepare wet ingredients*:
+  ** Separate eggs.
+  *** Save egg whites in separate mixing bowl. We will whip just before folding into batter.
+  *** Discard one egg yolk
+  *** Save one egg yolk in small bowl. Whisk lightly and add to wet ingredients. (Do this at least 5 minutes after adding vinegar or lemon juice)
+  ** In a small bowl or cup, melt butter. Stir wet ingredients while pouring in melted butter.
+  ** stir 1/2 tsp vanilla into wet ingredients.
 . *Make batter*:
   ** Pour the yolk-milk mixture into the dry ingredients. Stir gently until just combined; lumps are okay. Do not overmix.
-  ** Gently *fold* the whipped egg whites into the batter using a spatula. Use slow, deliberate folds (10-12 folds) to retain air. The batter will be light and airy.
+. *Whip egg whites*:
+  ** In a clean, dry bowl, use a whisk or hand mixer to whip 2 large egg whites to *soft peaks* (foamy, holding shape but not stiff), about 2-3 minutes by hand or 1-2 minutes with a mixer. Ensure no yolk or grease in the bowl to get light whipped result.
+. ** Gently *fold* the whipped egg whites into the batter using a spatula. Use slow, deliberate folds (10-12 folds) to retain air. The batter will be light and airy.
   ** If the batter seems too runny, add 1-2 tsp flour and stir gently.
 . *Heat griddle*: Preheat griddle to *350{deg}F*. Test with a drop of water (it should sizzle and evaporate). Lightly grease with butter or oil.
-. *Cook pancakes*: Pour ~0.25 cup batter per pancake onto the griddle. Cook until bubbles form and edges look set, about 2-3 minutes. Flip carefully (batter is delicate) and cook for 1-2 minutes until golden brown.
-. *Serve*: Serve immediately with maple syrup, fresh fruit, or your favorite toppings.
+. *Cook pancakes*: Pour ~1/4 cup batter per pancake onto the griddle. Cook until bubbles form and edges look set, about 2-3 minutes. Flip carefully (batter is delicate) and cook for 1-2 minutes until golden brown.
+. *Serve*: Can be kept while cooking in 200{deg} oven or serve immediately with maple syrup, fresh fruit, or your favorite toppings.
 
-== Tips for Success
-* *Separating Eggs*: Crack eggs carefully to separate whites and yolk. For 0.5 yolk, scoop half the yolk from one egg or measure ~0.5 tbsp. Store unused yolk/white for another use (e.g., custard or meringue).
+=== Tips for Success
+* *Separating Eggs*: Crack eggs carefully to separate whites and yolk. Store unused yolk for another use (e.g., custard or meringue) or discard.
 * *Whipping Whites*: Use a clean, grease-free bowl and whisk. Soft peaks are easier to fold and sufficient. Overwhipping to stiff peaks may make folding harder.
 * *Batter Consistency*: Two egg whites make the batter wetter. Test one pancake; if it spreads too much, add 1-2 tsp flour to thicken.
 * *Griddle at 350{deg}F*: Maintain this temperature. If pancakes brown too fast, lower to 340{deg}F. Ensure the griddle is fully preheated for even cooking.
 * *Resting Batter*: Rest the batter for 5 minutes after folding in whites to stabilize the structure and enhance fluffiness.
 
-== Expected Outcomes
+=== Expected Outcomes
 * *Texture*: Ultra-fluffy and light due to two whipped egg whites, with a tender crumb from reduced yolk.
 * *Flavor*: Mild egg flavor (less yolk), subtle tang from vinegar-milk, and gentle sweetness from powdered sugar.
 * *Appearance*: Tall, golden pancakes that may spread slightly due to wetter batter.
@@ -47,3 +52,4 @@ This recipe yields approximately 6 ultra-fluffy pancakes using a buttermilk subs
 * *Cooking*: Slightly longer cooking time (extra 15 seconds per side) due to wetter batter. Flip gently to avoid deflating.
 
 Enjoy your super-fluffy pancakes!
+
