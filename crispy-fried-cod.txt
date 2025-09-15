@@ -1,0 +1,64 @@
+= Crispy Culver's-Style Fried Cod
+:author: Grok
+:date: September 15, 2025
+:icons: font
+:description: A recipe to replicate Culver's crispy, golden fried cod using cod loins from Sam's Club, featuring a light, crunchy batter and tender, flaky fish.
+
+== Description
+This recipe mimics the crispy, flavorful North Atlantic cod served at Culver's. With a seasoned batter and deep-frying technique, these cod loins from Sam's Club turn into a golden, crunchy delight. Perfect with tartar sauce and lemon wedges!
+
+== Ingredients
+Serves 4
+
+* *Cod*:
+** 4 cod loins (about 4-6 oz each), patted dry
+* *Batter*:
+** 1 cup all-purpose flour
+** 1/4 cup cornstarch
+** 1 tsp baking powder
+** 1 tsp salt
+** 1/2 tsp black pepper
+** 1/2 tsp paprika
+** 1/4 tsp garlic powder
+** 1/4 tsp onion powder
+** 1 cup cold club soda or light lager beer
+* *Dredge*:
+** 1/2 cup all-purpose flour
+** 1/2 tsp salt
+** 1/4 tsp black pepper
+* *For Frying and Serving*:
+** Vegetable oil (enough for 2-3 inches in a deep skillet or pot)
+** Lemon wedges (optional, for serving)
+** Tartar sauce (optional, for serving)
+
+== Equipment
+* Deep skillet or Dutch oven
+* Thermometer (for oil temperature)
+* Tongs or slotted spoon
+* Wire rack or paper towels
+
+== Instructions
+. *Prep the Cod*:
+** Pat cod loins dry with paper towels to remove excess moisture.
+** Season lightly with a pinch of salt and pepper.
+. *Set Up Dredge and Batter*:
+** In a shallow dish, mix 1/2 cup flour, 1/2 tsp salt, and 1/4 tsp black pepper for the dredge.
+** In a medium bowl, whisk together 1 cup flour, cornstarch, baking powder, 1 tsp salt, 1/2 tsp pepper, paprika, garlic powder, and onion powder. Slowly add cold club soda or beer, whisking until smooth (batter should be like pancake batter). Keep batter cold.
+. *Heat Oil*:
+** Pour oil into a deep skillet or Dutch oven to a depth of 2-3 inches. Heat to 350°F (175°C) over medium-high heat, using a thermometer to maintain temperature.
+. *Coat the Cod*:
+** Dredge each cod loin in the flour mixture, shaking off excess.
+** Dip into the batter, ensuring full coverage. Let excess batter drip off.
+. *Fry the Cod*:
+** Carefully place 1-2 loins in the hot oil (avoid overcrowding). Fry for 3-4 minutes per side, turning once, until golden brown and crispy. Internal temperature should reach 145°F (63°C).
+** Remove with tongs or a slotted spoon and place on a wire rack or paper towels to drain. Sprinkle with a pinch of salt while hot.
+. *Serve*:
+** Serve immediately with lemon wedges and tartar sauce. Pair with fries or coleslaw for the full Culver's experience.
+
+[NOTE]
+====
+* *Keep Batter Cold*: Use cold club soda or beer for a crispier coating. A light lager best mimics Culver's flavor.
+* *Oil Temperature*: Maintain 350°F to avoid greasy or burnt fish.
+* *Freshness*: Ensure cod loins are fresh or fully thawed for best texture.
+* *No Deep Fryer?*: A deep skillet works well; monitor oil depth and temperature.
+====

@@ -1,0 +1,8 @@
+# Editor temporary/backup files
+*~
+#*#
+.*#
+
+# Generated files
+*.html
+*.pdf
