@@ -1,0 +1,65 @@
+= Crispy Air-Fried Cod (Culver's-Style)
+:author: Your Name
+:date: September 17, 2025
+:icons: font
+:description: A healthier adaptation of Culver's crispy, golden fried cod, using an air fryer to achieve a crunchy coating with minimal oil.
+
+== Description
+This recipe adapts Culver's-style crispy cod for the air fryer, using cod loins from Sam's Club. A seasoned batter and light oil spray create a golden, crunchy exterior with tender, flaky fish inside. Perfect with tartar sauce and lemon wedges!
+
+== Ingredients
+* *Cod*:
+** 4 cod loins (4–6 oz each, thawed), patted dry
+* *Batter*:
+** 1 cup all-purpose flour
+** 1/4 cup cornstarch
+** 1 tsp baking powder
+** 1 tsp salt
+** 1/2 tsp black pepper
+** 1/2 tsp paprika
+** 1/4 tsp garlic powder
+** 1/4 tsp onion powder
+** 3/4–1 cup cold club soda or light lager beer (adjust for thick batter)
+* *Dredge*:
+** 1/2 cup all-purpose flour
+** 1/2 tsp salt
+** 1/4 tsp black pepper
+* *For Air Frying and Serving*:
+** Cooking spray or 1–2 tbsp vegetable oil (for brushing)
+** Lemon wedges (optional, for serving)
+** Tartar sauce (optional, for serving)
+
+== Equipment
+* Air fryer
+* Tongs
+* Pastry brush or oil sprayer
+* Mixing bowls
+* Wire rack or plate
+
+== Instructions
+. *Prep the Cod*:
+** Pat cod loins dry with paper towels to remove excess moisture (critical for crispiness).
+** Season lightly with a pinch of salt and pepper.
+. *Set Up Dredge and Batter*:
+** In a shallow dish, mix 1/2 cup flour, 1/2 tsp salt, and 1/4 tsp black pepper for the dredge.
+** In a medium bowl, whisk together 1 cup flour, cornstarch, baking powder, 1 tsp salt, 1/2 tsp pepper, paprika, garlic powder, and onion powder. Slowly add cold club soda or beer, whisking until smooth. Aim for a thick batter (like heavy cream) to ensure it sticks in the air fryer.
+. *Coat the Cod*:
+** Dredge each cod loin in the flour mixture, shaking off excess.
+** Dip into the batter, ensuring full coverage. Let excess batter drip off. For extra adhesion, gently press batter onto the fish.
+. *Preheat Air Fryer*:
+** Preheat air fryer to 390&#176;F (200&#176;C) for 3 minutes (or per your air fryer’s instructions).
+. *Air Fry the Cod*:
+** Lightly spray or brush both sides of each battered cod loin with vegetable oil to promote browning.
+** Place 1–2 loins in the air fryer basket in a single layer, ensuring they don’t touch (work in batches if needed).
+** Air fry at 390&#176;F for 8–12 minutes, flipping halfway through, until golden and crispy. Internal temperature should reach 145&#176;F (63&#176;C).
+** Remove with tongs and place on a wire rack or plate.
+. *Serve*:
+** Serve immediately with lemon wedges and tartar sauce. Pair with fries or coleslaw for the full Culver's experience.
+
+[NOTE]
+====
+* *Keep Batter Thick*: Use slightly less liquid (3/4 cup) for a thicker batter that adheres better in the air fryer.
+* *Oil Spray*: Don’t skip the oil spray or brush; it’s essential for a crispy, golden coating.
+* *Batch Cooking*: Avoid overcrowding the air fryer basket to ensure even cooking.
+* *Freshness*: Use thawed cod loins (cold water method: 30–60 min in a sealed bag). Pat dry thoroughly.
+====
