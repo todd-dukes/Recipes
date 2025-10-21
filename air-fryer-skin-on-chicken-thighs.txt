@@ -1,0 +1,59 @@
+= Air Fryer Skin-On Chicken Thighs
+:encoding: UTF-8
+:author: Your Name
+:revdate: 2025-10-13
+:revnumber: 1.0
+
+== Description
+Crispy, juicy skin-on chicken thighs cooked in an air fryer (or café oven with air fry mode) for a quick, flavorful meal. Serves 2-4.
+
+== Ingredients
+* 4 skin-on, bone-in chicken thighs (about 1.5-2 lbs)
+* 1 tbsp olive oil
+* 1 tsp kosher salt
+* 1/2 tsp black pepper
+* 1 tsp garlic powder
+* 1 tsp smoked paprika
+* 1/2 tsp dried thyme
+* 1/4 tsp cayenne pepper (optional, for a kick)
+
+== Equipment
+* Café oven with air fry mode
+* Gridded baking rack
+* Baking sheet
+* Meat thermometer
+* Tongs
+
+== Instructions
+. **Prep the Chicken**:
+  - Pat the chicken thighs dry with paper towels to ensure crispy skin.
+  - In a large bowl, toss the thighs with olive oil, salt, pepper, garlic powder, smoked paprika, thyme, and cayenne (if using). Rub the seasoning evenly under and over the skin.
+  - Let the thighs sit at room temperature for 15 minutes to absorb flavors.
+
+. **Set Up the Oven**:
+  - Place the gridded baking rack on a baking sheet to catch drippings.
+  - Preheat the café oven to 390&#176;F (199&#176;C) on air fry mode for 5 minutes. (Air fry mode uses a higher fan speed for crispier results compared to convection.)
+
+. **Cook the Chicken**:
+  - Arrange the thighs skin-side up on the gridded rack, ensuring they don't touch for optimal air circulation.
+  - Air fry at 390&#176;F (199&#176;C) for 18-22 minutes, flipping halfway through with tongs to ensure even browning.
+  - Check the internal temperature with a meat thermometer; it should read 165&#176;F (74&#176;C) in the thickest part without touching the bone.
+  - If not crispy enough, air fry for an additional 2-3 minutes.
+
+. **Rest and Serve**:
+  - Remove the thighs and let them rest on the rack for 5 minutes to retain juices.
+  - Serve hot with sides like roasted potatoes or a green salad.
+
+== Tips
+* For extra crispy skin, ensure the thighs are thoroughly dried before seasoning.
+* Adjust cooking time slightly based on thigh size; larger thighs may need 20-24 minutes.
+* If your oven's air fry mode feels too intense, reduce to 380&#176;F (193&#176;C) and extend cooking by 2-3 minutes.
+* Store leftovers in an airtight container in the fridge for up to 3 days; reheat in the air fryer at 350&#176;F (177&#176;C) for 5-7 minutes.
+
+== Notes
+* This recipe is tailored for a café oven with a gridded baking rack setup to maximize airflow and crispiness.
+* The seasoning blend can be customized; try adding rosemary or oregano for a different flavor profile, as you've used in other recipes.
+* To avoid encoding issues in AsciiDoctor, the degree symbol is written as `&#176;` for compatibility.
+
+== Source
+Adapted from a conversation with Grok on 2025-10-13.

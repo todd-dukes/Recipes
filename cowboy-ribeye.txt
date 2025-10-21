@@ -1,0 +1,76 @@
+// SPDX-License-Identifier: CC-BY-4.0
+:encoding: utf-8
+:toc: left
+:toclevels: 3
+:sectnums:
+:sectnumlevels: 3
+
+= Cowboy Ribeye (Low-and-Slow Oven with Reverse Sear)
+:revdate: 2025-09-25
+:author: Grok 3, xAI
+
+== Description
+A tender, juicy bone-in cowboy ribeye (3.09 lbs) seasoned with salt, pepper, garlic, and fresh rosemary, cooked low-and-slow in a café oven at 225°F to 130°F (medium-rare) using the oven's auto-shutoff meat thermometer, then reverse-seared for a flavorful crust. Serves 4-6 people.
+
+== Ingredients
+* 1 cowboy ribeye steak (bone-in, 3.09 lbs, ~2-2.5 inches thick)
+* 1.5-2 tbsp kosher salt
+* 1.5 tsp freshly ground black pepper
+* 1.5 tsp garlic powder
+* 1.5-2 tbsp fresh rosemary, finely chopped (from garden, or 1.5 tsp dried)
+* 1 tbsp olive oil or avocado oil (for searing)
+* 2 tbsp unsalted butter (for searing)
+* 1 sprig fresh rosemary (optional, for basting)
+* 1 clove garlic, smashed (optional, for basting)
+
+== Equipment
+* Café oven (with meat thermometer probe and auto-shutoff feature)
+* Wire rack set over a baking sheet
+* Cast-iron skillet or oven-safe skillet
+* Meat thermometer probe (included with café oven)
+* Tongs
+
+== Preparation
+. *Prepare the Steak*:
+.. Pat the ribeye dry with paper towels.
+.. Mix 1.5-2 tbsp kosher salt, 1.5 tsp black pepper, 1.5 tsp garlic powder, and 1.5-2 tbsp finely chopped fresh rosemary in a small bowl.
+.. Rub the mixture evenly over all sides of the steak, pressing gently to adhere.
+.. Place the steak on a wire rack over a baking sheet and refrigerate uncovered for 1 hour to dry-brine.
+
+. *Preheat Oven*:
+.. Preheat café oven to 225°F (convection optional for even heat).
+.. Ensure the oven’s meat thermometer probe is ready.
+
+. *Cook Low and Slow*:
+.. Place the wire rack with the steak on the baking sheet in the oven.
+.. Insert the oven’s meat thermometer probe into the thickest part of the steak, avoiding the bone.
+.. Set the oven’s target temperature to 130°F (medium-rare). Expect 1.5-2.5 hours for the oven to shut off automatically when the steak reaches 130°F.
+.. *Doneness Options*:
+... Rare: 120-125°F (49-52°C)
+... Medium: 135-140°F (57-60°C)
+
+. *Rest*:
+.. Remove the steak from the oven when it hits 130°F.
+.. Rest on the wire rack, loosely covered with foil, for 10-15 minutes to redistribute juices.
+
+. *Sear*:
+.. Heat a cast-iron skillet over high heat until very hot (3-4 minutes). Add 1 tbsp olive oil and wait until it shimmers.
+.. Sear the steak for 3-4 minutes per side to develop a deep golden-brown crust.
+.. Add 2 tbsp butter, 1 rosemary sprig, and 1 smashed garlic clove (if using) during the last minute, tilting the pan and spooning melted butter over the steak.
+.. Sear edges for 30-45 seconds each using tongs.
+
+. *Rest and Serve*:
+.. Rest the steak for 5-7 minutes after searing.
+.. Slice against the grain or serve whole with the bone, drizzled with pan juices.
+
+== Notes
+* *Café Oven*: The auto-shutoff feature ensures precise cooking. Place the probe in the thickest meaty part, away from the bone, for accurate readings.
+* *Fresh Rosemary*: Use garden-fresh rosemary for the rub and optional basting. Increase to 2.5 tbsp in the rub for stronger flavor if desired.
+* *Grill Option*: After the oven, sear on a grill preheated to 450-500°F for 3-4 minutes per side.
+* *Sides*: Pair with mashed potatoes (2-3 lbs for 4-6 people), sautéed spinach, or roasted acorn squash for a Southern-style meal.
+* *Servings*: A 3.09-lb ribeye serves 4-6 (8-12 oz per person).
+
+== Prep and Cook Time
+* *Prep Time*: 10 minutes + 1 hour chilling
+* *Cook Time*: 1.5-2.5 hours (oven) + 5-8 minutes (searing)
+* *Total Time*: ~2-2.75 hours
