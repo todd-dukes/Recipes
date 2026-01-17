@@ -1,0 +1,46 @@
+= BBQ Chicken Leg Quarters (Low-and-Slow Oven Method)
+
+Two bone-in, skin-on chicken leg quarters -> crispy skin, juicy meat, sticky BBQ glaze.
+
+== Ingredients
+* 2 chicken leg quarters (thigh + drumstick)
+* Dry rub of choice (e.g., salt, pepper, paprika, garlic powder, onion powder, brown sugar, smoked paprika)
+* Neutral oil or spray (optional, for extra-crispy skin)
+* Your favorite BBQ sauce
+
+== Equipment
+* Rimmed baking sheet
+* Wire rack (highly recommended)
+* Meat thermometer (essential)
+
+== Method
+
+. Preheat oven to 225 F (107 C). Convection: use 215 F if your oven runs hot.
+. Pat chicken completely dry. Season generously under and on top of the skin with dry rub.
+. Place quarters skin-side up on wire rack set in baking sheet.
+. Low-and-slow phase: Bake at 225 F for 60-75 minutes until internal temp hits 140-150 F (60-66 C) in the thickest part of the thigh without touching bone.
+. Crank oven to 425 F (218 C). No need to wait for full pre-heat.
+. High-heat crisp phase: Bake 25-35 minutes until skin is deep golden-brown and internal temp reaches at least 165 F (74 C). (Most pieces will hit 175-185 F, which is perfect for dark meat.)
+. Reduce oven to 350 F (177 C).
+. Brush a thin layer of BBQ sauce over the quarters. Return to oven for 8 minutes.
+. Optional second coat: Brush another thin layer and bake 5-7 more minutes. For extra stickiness, finish under the broiler 1-2 minutes (watch closely).
+. Rest 5-10 minutes on the rack before serving.
+
+== Timeline Summary
+[cols="1,1,1,1"]
+|===
+| Phase              | Temp    | Time            | Target Internal
+
+| Low-and-slow       | 225 F   | 60-75 min       | 140-150 F
+| Crisping           | 425 F   | 25-35 min       | >=165 F (175-185 F ideal)
+| Sauce & caramelize | 350 F   | 10-15 min total | -
+| Rest               | -       | 5-10 min        | -
+|===
+
+== Tips
+* Using 225 F instead of 250 F gives more forgiveness and slightly better tenderness.
+* The wire rack is the difference between soggy and cracklin' skin.
+* Dark meat is very forgiving - pushing to 185 F in the thigh makes it even more tender.
+* Don't sauce too early or too many times; sugar burns and skin goes soft.
+
+Enjoy your oven "BBQ" chicken!
