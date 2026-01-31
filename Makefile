@@ -2,6 +2,7 @@
 RECIPES := \
     air-fryer-skin-on-chicken-thighs \
     bbq-chicken-leg-quarters \
+    biscuits \
     chicken-wings-oven-baked \
     coconut-cake \
     cowboy-ribeye \
