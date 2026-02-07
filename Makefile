@@ -24,11 +24,11 @@ ALL_TARGETS  := $(HTML_TARGETS) $(PDF_TARGETS)
 all: $(ALL_TARGETS)
 
 # Pattern rule for HTML
-%.html : %.txt
+%.html : %.adoc
 	asciidoctor -a icons -a iconsdir=./images/icons -o $@ $<
 
 # Pattern rule for PDF
-%.pdf : %.txt
+%.pdf : %.adoc
 	asciidoctor-pdf -a pdf-page-size=Letter -o $@ $<
 
 # Optional: helps during development / debugging
