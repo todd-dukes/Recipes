@@ -11,6 +11,8 @@ RECIPES := \
     crispy-fried-cod \
     crock-pot-pork-chops-with-sage-gravy \
     fluffy-pancakes \
+    fluffy-whole-wheat-pancakes \
+    hamburger-chili \
     roasted-spagheti-sauce
 
 # Automatically generate all real targets (.html and .pdf for each recipe)
@@ -27,7 +29,7 @@ all: $(ALL_TARGETS)
 
 # Pattern rule for PDF
 %.pdf : %.txt
-	asciidoctor-pdf -o $@ $<
+	asciidoctor-pdf -a pdf-page-size=Letter -o $@ $<
 
 # Optional: helps during development / debugging
 list:

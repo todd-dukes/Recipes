@@ -1,0 +1,60 @@
+== Fluffy Whole Wheat Pancake Recipe 
+:author: tdukes (updated with Grok suggestions)
+:revdate: January 2026
+:revision: Adds ~50% whole wheat flour for more fiber & nutrients while preserving fluffiness
+:icons: font
+:icon-set: fas
+:pdf-page-size: Letter
+
+This is modification of Fluffy Pancake Recipe to more align with inverted food pyramid by replacing half the all-purpose flour
+with whole wheat flour.
+Yields ~6-9 ultra-fluffy pancakes. The nutty flavor is subtle and the texture stays very light thanks to whipped egg whites and gentle folding.
+
+=== Ingredients
+
+*Wet*
+
+** 6 oz (3/4 cup) milk
+** 1 T white vinegar or lemon juice (2 tsp works well too, this should match baking powder amount)
+** 2 large eggs - yolks and whites separated (only 1 yolk used)
+** 2 tbsp unsalted butter, melted
+** 1/2 tsp vanilla extract (optional)
+
+*Dry*
+
+** 3/8 cup (6 tbsp) all-purpose flour
+** 3/8 cup (6 tbsp) whole wheat flour (Can change ratio, but keep total flour 3/4 cup, more whole wheat may require more milk)
+** 1 T baking powder
+** 1/4 tsp salt
+** 1 T powdered sugar
+
+=== Instructions
+
+. *Prepare buttermilk substitute*: Mix 6 oz milk + 1 T vinegar. Let sit at least 5 minutes to curdle.
+. *Mix dry ingredients*: Whisk together both flours, baking powder, salt, and powdered sugar in a medium bowl.
+. *Prepare wet ingredients*:
+  ** Separate eggs (save whites in clean bowl for whipping).
+  ** Discard one yolk; lightly whisk the remaining yolk.
+  ** Stir melted butter and vanilla into the curdled milk + yolk mixture.
+. *Make base batter*: Pour wet mixture into dry. Stir gently until just combined (lumps OK - do NOT overmix).
+. *Whip egg whites*: Beat the 2 whites to soft peaks (foamy, holds shape but not stiff). Keep bowl very clean/no grease or trace of egg yolk, or
+   the whites may not whip properly.
+. *Fold in whites*: Gently fold whipped whites into batter with spatula (10-12 slow folds) to keep it airy.
+   ** If batter seems too thick (whole wheat can make it denser), add 1-2 tsp extra milk. If too runny, add 1-2 tsp all-purpose flour.
+. *Heat griddle*: Preheat to 350°F. Test with water drop (should sizzle/evaporate). Lightly grease.
+. *Cook*: Pour ~1/4 cup batter per pancake. Cook until bubbles form + edges set (~2-3 min). Flip gently; cook 1-2 min more until golden.
+. *Serve*: Keep warm in 200°F oven if needed. Top with maple syrup, fruit, etc.
+
+=== Tips for Best Results with Whole Wheat
+* Start with the 50/50 flour split - keeps the pancakes tall and tender. If you want even more whole grain later, try 60-75% whole wheat (but expect slightly denser texture).
+* White whole wheat flour (if available) gives the lightest result with similar nutrition.
+* Whole wheat absorbs more liquid icon:arrow-left[] the extra 1 oz milk helps. Adjust batter consistency before cooking (should be scoopable but not runny).
+* Do not overmix after adding whites - preserves air bubbles for fluffiness.
+* If first pancake spreads too much or is dense, add 1-2 tsp extra flour to remaining batter.
+
+=== Expected Outcomes
+* Texture: Still very fluffy and light (thanks to whipped whites), with a slightly heartier/nuttier bite from whole wheat.
+* Flavor: Mild tang + subtle sweetness, plus pleasant whole-grain note.
+* Nutrition boost: More fiber, B vitamins, and minerals compared to 100% all-purpose.
+
+Enjoy your healthier super-fluffy pancakes!
