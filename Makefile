@@ -13,7 +13,8 @@ RECIPES := \
     fluffy-pancakes \
     fluffy-whole-wheat-pancakes \
     hamburger-chili \
-    roasted-spagheti-sauce
+    roasted-spagheti-sauce \
+    sourdough-whole-wheat-pullman-loaf
 
 # Automatically generate all real targets (.html and .pdf for each recipe)
 HTML_TARGETS := $(addsuffix .html,$(RECIPES))
