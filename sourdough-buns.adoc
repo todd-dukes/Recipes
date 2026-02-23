@@ -1,0 +1,90 @@
+= Sourdough Buns (4 buns, tipo 00 flour)
+
+== Ingredients
+
+[cols="1,3",options="header"]
+|===
+| Ingredient          | Amount
+| Tipo 00 flour       | 300 g
+| Water (80F / 27C) | 180-195 g (start with 180 g, adjust for 60-65% hydration)
+| Active sourdough starter | 60 g
+| Salt                | 6 g
+|===
+
+== Equipment
+
+- KitchenAid stand mixer with dough hook
+- Digital scale
+- Latte thermometer (or similar)
+- Proofing oven set to proof mode (80F)
+- Bowl
+- Parchment-lined baking sheet
+- Damp towel or plastic wrap for covering
+
+== Instructions
+
+=== 1. Prepare the Starter
+
+. Remove sourdough starter from refrigerator.
+. Scoop out 60 g into a small bowl or container.
+. Let it sit at room temperature 30-45 minutes until bubbly and slightly warm (smells tangy but pleasant).
+
+=== 2. Mix the Dough
+
+. In the KitchenAid bowl, combine 180 g water (80F) + 60 g active starter. Stir until mostly dissolved.
+. Add 300 g tipo 00 flour + 6 g salt.
+. Mix on speed 1 (stir) for ~30 seconds until no dry flour remains.
+. Increase to speed 2 and knead 3-4 minutes until smooth and tacky (it should pull away from sides slightly but still stick to bottom).
+. If too dry, add water 1 Tbsp at a time; if too sticky, add flour 1 tsp at a time.
+
+=== 3. Autolyse & Stretch-and-Folds
+
+. Cover bowl loosely (or leave uncovered in proofing oven).
+. Rest 20 minutes at 80F.
+. Perform 3 sets of stretch-and-folds (every 15-20 minutes):
+  ** Wet hands to prevent sticking.
+  ** Grab one side, stretch gently upward, fold over center.
+  ** Rotate bowl 90, repeat 4 folds total per set.
+. After final set, dough should feel noticeably stronger and smoother.
+
+=== 4. Bulk Fermentation
+
+. Place bowl in proofing oven (80F, uncovered or loosely covered).
+. Ferment until roughly doubled in size, puffy, and bubbly at sides (typically 3-5 hours at 80F; may take longer if starter was cold).
+. Check with poke test: gentle indent should spring back slowly (like a marshmallow).
+. If slow progress, do one extra stretch-and-fold and continue 30-60 minutes.
+
+=== 5. Divide & Pre-shape
+
+. Turn dough onto unfloured surface.
+. Divide into 4 equal pieces (135-140 g each; total dough 545 g : 545 / 4 = 136.25 g per piece).
+. Gently round each piece into a loose ball (cup hands and rotate on counter for light tension).
+
+=== 6. Bench Rest
+
+. Cover pieces loosely with damp towel.
+. Rest 15-20 minutes (relaxes gluten for easier final shaping).
+
+=== 7. Final Shape & Proof
+
+. Shape each piece into a tight ball: cup hands around dough, drag gently toward you on unfloured counter to create surface tension.
+. Place shaped buns seam-side down on parchment-lined baking sheet, spaced apart.
+. Cover loosely with damp towel or plastic wrap.
+. Proof in proofing oven (80F) 1-2 hours until puffy and poke test shows slow spring-back.
+
+=== 8. Bake
+
+. Preheat oven to 425F (220C) with steam setup if possible (pan of hot water or ice cubes).
+. Optional: slash tops lightly or leave plain.
+. Bake 18-22 minutes until golden brown and internal temperature reaches 200F.
+. For softer crust: wrap in towel after baking for 10 minutes.
+. Cool on rack before serving.
+
+== Tips
+
+- Tipo 00 flour gives a very tender, pillowy crumb ideal for soft buns.
+- If dough feels stiff during mixing, add water gradually (tipo 00 absorbs more slowly).
+- Slow rise? Starter may need refreshing; temperature below 75F slows fermentation significantly.
+- Store cooled buns in airtight container up to 2 days or freeze.
+
+Enjoy your soft, homemade sourdough buns!

@@ -14,6 +14,7 @@ RECIPES := \
     fluffy-whole-wheat-pancakes \
     hamburger-chili \
     roasted-spagheti-sauce \
+    sourdough-buns \
     sourdough-whole-wheat-pullman-loaf
 
 # Automatically generate all real targets (.html and .pdf for each recipe)
