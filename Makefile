@@ -13,6 +13,7 @@ RECIPES := \
     fluffy-pancakes \
     fluffy-whole-wheat-pancakes \
     hamburger-chili \
+    peanut-butter-cookies \
     roasted-spagheti-sauce \
     sourdough-buns \
     sourdough-whole-wheat-pullman-loaf
