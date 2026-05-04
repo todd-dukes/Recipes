@@ -13,6 +13,7 @@ RECIPES := \
     fluffy-pancakes \
     fluffy-whole-wheat-pancakes \
     hamburger-chili \
+    oven-slow-cook-ribs \
     peanut-butter-cookies \
     roasted-spagheti-sauce \
     sourdough-buns \
