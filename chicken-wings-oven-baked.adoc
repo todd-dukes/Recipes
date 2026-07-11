@@ -1,7 +1,7 @@
 
 = Oven Baked Chicken Wings
 
-.Ingredients
+.Chicken Rub Ingredients
 ----
 * 1/2 T flour
 * 1 1/2 T baking powder
@@ -13,7 +13,7 @@
 * 1 1/2 t dry mustard
 ----
 
-.Directions
+.Chicken Rub Directions
 ----
 * preheat over 250F
 * put rack on cookie sheet
@@ -21,4 +21,18 @@
 * cook at 250F for 30 minutes
 * raise over temperature to 425F
 * cook another 15 to 45 minutes (based on chicken wing size)
+----
+
+.Hot Sauce Ingredients
+----
+* 1/2 C Butter
+* 1/2 C Sriracha hot sauce
+* 1/2 t granulated garlic
+* 1/2 t ground black pepper
+----
+
+.Hot Sauce Directions
+----
+* In saucepan heat ingredients just until butter melts, then keep warm.
+* Leftover can be refrigerated and reheated gently in microwave.
 ----
