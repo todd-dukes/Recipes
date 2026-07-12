@@ -1,0 +1,61 @@
+= Pressure Cooker Bean Guide (Emeril Lagasse)
+:sectnums:
+
+== General Instructions for Cooking Beans
+
+To ensure perfect texture and safety when cooking *unsoaked* beans in your Emeril Lagasse pressure cooker, follow these core steps:
+
+. *Rinse and Sort:* Always rinse dry beans thoroughly in a colander and pick out any debris or shriveled beans.
+. *Liquid Ratio:* Use a minimum ratio of *3 to 4 cups of water* for every *1/2 cup of dry beans*. The pot must never be
+  filled more than halfway when cooking beans, as they expand and foam.
+. *No Acid Early:* Do not add acidic ingredients (tomatoes, vinegar, lemon juice) until *after* the beans are fully
+  tender, as acid prevents softening.
+. *Natural Release:* For all beans, allow the pressure to release *naturally for at least 15-20 minutes* after the timer
+  ends. Quick-releasing can cause skins to burst while leaving the interior crunchy.
+. *Safety Note:* Red Kidney Beans contain natural toxins (lectins) that are destroyed by high heat. The pressure cooking
+  times below are sufficient to eliminate these toxins, but ensure the cooker reaches full pressure.
+
+== Unsoaked Bean Cooking Chart (Fresh Beans)
+
+*Target Yield:* Equivalent to 1/2 cup dry Red Kidney Beans (approx. 1.5 cups cooked).
+
+[cols="1,1,1,1", options="header"]
+|===
+| Bean Type
+| Dry Amount Needed
+| Water Amount (Min)
+| Cooking Time (High Pressure)
+
+| *Red Kidney Beans*
+| 1/2 cup
+| 3-4 cups
+| 20-25 mins
+
+| *Lentils (Brown/Green)*
+| 2/3 cup
+| 3 cups
+| 8-10 mins
+
+| *Navy Beans*
+| 1/2 cup
+| 3-4 cups
+| 25-30 mins
+
+| *Pinto Beans*
+| 1/2 cup
+| 3-4 cups
+| 15-20 mins
+
+| *Garbanzo (Chickpeas)*
+| 1/2 cup
+| 3-4 cups
+| 35-40 mins
+
+| *Northern Beans*
+| 1/2 cup
+| 3-4 cups
+| 25-30 mins
+|===
+
+*Note:* Always allow for a *Natural Release* of 15-20 minutes after the cooking time completes. Do not use Quick
+ Release. These times assume fresh beans (packed within the last year).
