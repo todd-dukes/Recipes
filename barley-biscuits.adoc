@@ -1,14 +1,17 @@
-= Simple Barley Biscuits (2 Medium)
+= Simple Barley Biscuits
 
-Yields: 2 biscuits Prep time: 10 minutes Bake time: 12-15 minutes Temperature: 425F (220C)
+* Yields: 2 biscuits
+* Prep time: 10 minutes
+* Bake time: 12-15 minutes
+* Temperature: 425F (220C)
 
 == Ingredients
 
-* 1/2 cup barley flour
-* 1 tsp baking powder
-* 1/8 tsp salt
-* 1/2 tbsp cold butter or lard (ev olive oil for more savory with tender, less flaky texture)
-* 2 tbsp + 2 tsp cold milk (or buttermilk)
+* 1 cup barley flour
+* 2 tsp baking powder
+* 1/4 tsp salt
+* 1 T cold butter or lard (ev olive oil for more savory with tender, less flaky texture)
+* 3 oz cold milk (or buttermilk)
 
 == Instructions
 
@@ -24,4 +27,5 @@ Yields: 2 biscuits Prep time: 10 minutes Bake time: 12-15 minutes Temperature: 4
 
 == Notes
 
-* To get flakiness with EVOO, use 1 tsp EVOO and 1 to 1 1/2 tsp  water.
+* To get flakiness with EVOO, use 4 T EVOO and 2 T water.
+
