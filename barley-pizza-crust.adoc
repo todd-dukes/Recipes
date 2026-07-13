@@ -1,4 +1,8 @@
+:icons: font
+
 = Barley Pizza Crust
+
+WARNING: I do not recommend this recipe.
 
 == Ingredients
 
