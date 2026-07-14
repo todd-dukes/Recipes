@@ -3,6 +3,7 @@ RECIPES := \
     air-fryer-skin-on-chicken-thighs \
     bbq-chicken-leg-quarters \
     barley-biscuits \
+    barley-sourdough-pizza-crust \
     biscuits \
     chicken-wings-oven-baked \
     coconut-cake \
