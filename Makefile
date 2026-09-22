@@ -8,6 +8,7 @@ RECIPES := \
     chicken-wings-oven-baked \
     coconut-cake \
     cowboy-ribeye \
+    crock-pot-cheddar-mac \
     crock-pot-chicken-taco \
     crispy-air-fried-cod \
     crispy-fried-cod \
