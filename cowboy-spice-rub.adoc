@@ -1,0 +1,28 @@
+
+:encoding: utf-8
+:toc: left
+:toclevels: 3
+:sectnums:
+:sectnumlevels: 3
+
+= Cowboy Spice Rub
+:revdate: 2026Sep24
+:author: Todd Dukes
+
+== Description
+A simple rub for grilled steaks.
+
+== Ingredients
+* 2 t ground Coriander
+* 2 t dry Mustard
+* 2 t ground black pepper
+* 1 t Cayenne pepper
+* 1/4 cup brown sugar
+* 1/4 cup Paprika
+* 1/4 cup ground coffee
+* 3/4 cup Chili powder
+
+== Preparation
+. Combine all ingredients in glass storage bowl and whisk gently with a fork.
+. rub both sides of steak generously (maybe 1t - 1T per side)
+. Note ingredients are over 1 1/2 cups. Pick big enough storage container.
